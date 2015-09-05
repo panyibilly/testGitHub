@@ -15,3 +15,4 @@ wahahahaha
 
 make sure to enter the following command in shell: rm -f .git/index.lock to be able to commit to local repo. 
 
+from FPG machine 1!!!!!
